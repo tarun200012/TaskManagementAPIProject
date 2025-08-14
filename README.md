@@ -1,8 +1,3 @@
-
-Swarina gupta <guptaswarina30@gmail.com>
-8:30 PM (0 minutes ago)
-to me
-
 # Task Management API (Spring Boot)
 
  
